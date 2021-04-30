@@ -1,0 +1,9 @@
+/Debug
+/Release
+/bin
+/temp
+/ffmpeg
+/ffmpegexe
+/*.user
+/*.rar
+/*.xml
